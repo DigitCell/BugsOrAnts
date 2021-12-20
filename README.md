@@ -1,6 +1,7 @@
 # BugsOrAnts
 Bugs or Ants experiment
 
+<img src="./BugsOrAnts.gif">
 <img src="./screen01.png">
 <img src="./screen02.png">
 
